@@ -1,5 +1,5 @@
 # Goldbach-Conjecture
-I was curious if the Goldbach Conjecture is true for the first 10.000 primes. The result was more exciting.
+I was curious if the Goldbach Conjecture is true for the first 10.000 primes. The result was exciting.
 
 (If you don't know what's that - from Wikipedia:
 "Goldbach's conjecture is one of the oldest and best-known unsolved problems in number theory and all of mathematics. It states:
@@ -11,7 +11,6 @@ Every even integer greater than 2 can be expressed as the sum of two primes."
 4. I checked if it gives out all the even integers between 1 and 104729.
 5. It gave.
 6. I sorted the concluded numbers, and counted the distribution of them.
-7. I found that the greater the concluded even integer, the more possibility to create it as the sum of 2 primes. (
-   (eg. )
+7. I found that the greater the concluded even integer, the more possibility to create it as the sum of 2 primes.
 
 It makes me feel more and more that the Goldbach Conjecture MUST be true, but with that of course this is still an unsolved problem.
